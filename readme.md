@@ -12,5 +12,5 @@ Open Counter-Strafe é uma alternativa software livre ao recurso "Snap-Tap" enco
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/open-counter-strafe.git
+git clone https://github.com/allanvini/open-counter-strafe.git
 cd open-counter-strafe
